@@ -8,3 +8,5 @@
 - Day15
     https://www.hackerrank.com/challenges/gem-stones/problem - [stones.py](day15/stones.py)
 
+- Day16 
+    https://www.hackerrank.com/challenges/alternating-characters/problem - [alternate.py](day16/alternate.py)
